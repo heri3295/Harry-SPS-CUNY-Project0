@@ -1,0 +1,17 @@
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\obj\Debug\PalindromeCheckerApp.csprojAssemblyReference.cache
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\obj\Debug\PalindromeCheckerApp.csproj.CoreCompileInputs.cache
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\PalindromeCheckerApp.exe.config
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\PalindromeCheckerApp.exe
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\PalindromeCheckerApp.pdb
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\ClassLibrary1.dll
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\UnitTestProject1.dll
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\ClassLibrary1.pdb
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\UnitTestProject1.pdb
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\obj\Debug\PalindromeCheckerApp.csproj.CopyComplete
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\obj\Debug\PalindromeCheckerApp.exe
+c:\users\mexic\source\repos\PalindromeCheckerApp\PalindromeCheckerApp\obj\Debug\PalindromeCheckerApp.pdb
