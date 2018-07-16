@@ -1,0 +1,5 @@
+c:\users\mexic\source\repos\PalindromeCheckerApp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\mexic\source\repos\PalindromeCheckerApp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\mexic\source\repos\PalindromeCheckerApp\ClassLibrary1\obj\Debug\PalindromeChecker.csproj.CoreCompileInputs.cache
+c:\users\mexic\source\repos\PalindromeCheckerApp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\mexic\source\repos\PalindromeCheckerApp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
